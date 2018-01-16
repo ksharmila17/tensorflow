@@ -1,0 +1,16 @@
+Step 1 : Open command promt in the needed folder
+
+Step 2: Activate tensor flow
+
+activate tensorflow
+
+Step 3: Enter into python
+
+python
+
+Step 4: Run your python code directly
+
+import tensorflow as tf
+hello = tf.constant('hello world')
+sess = tf.Session()
+print(sess.run(hello))

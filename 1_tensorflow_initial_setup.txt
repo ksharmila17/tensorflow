@@ -1,0 +1,36 @@
+Step 1. Install python and Check python version installed
+
+python --version
+
+Step 2. Install pip and check pip version installed
+
+pip --version
+
+Step 3. Create virtual environment
+
+pip install --upgrade virtualenv
+
+Step 4. Create new directory for tensorflow applications
+mkdir tf
+cd tf
+
+Step 5. Upgrade and activate tensorflow
+
+pip install --ignore-installed --upgrade tensorflow
+
+activate tensorflow
+
+
+Step 6. Enter python console
+
+Step 7. Directly write python code
+
+Step 8. Exit python console 
+
+exit()
+
+Step 9. Exitted python console but still inside tensor flow to run python code file
+
+python samplefile.py
+
+Step 10. Use Tensorboard to debug.

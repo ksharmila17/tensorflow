@@ -1,0 +1,17 @@
+Step 1 : Open command promt in the needed folder
+Step 2: Activate tensor flow
+
+activate tensorflow
+
+Step 3: Run your python code file created in editor(pycharm)
+
+python tf_ex1_SimpleMath.py
+ 
+Step 4: Visualize/Debug using TensorBoard
+
+tensorboard --logdir="tf_ex1_SimpleMath"
+
+
+Step 5: Open browser and go to the mentioned url
+
+http://user-pc:6006
